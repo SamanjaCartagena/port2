@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.0486f3bc.chunk.js",
-    "main.js.map": "/static/js/main.0486f3bc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.802382d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.802382d8.js.map",
-    "static/js/2.88d8cedd.chunk.js": "/static/js/2.88d8cedd.chunk.js",
-    "static/js/2.88d8cedd.chunk.js.map": "/static/js/2.88d8cedd.chunk.js.map",
-    "static/js/3.3b33acaa.chunk.js": "/static/js/3.3b33acaa.chunk.js",
-    "static/js/3.3b33acaa.chunk.js.map": "/static/js/3.3b33acaa.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.88d8cedd.chunk.js.LICENSE.txt": "/static/js/2.88d8cedd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/SamanjaCartagena/port2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/SamanjaCartagena/port2/static/js/main.9ee6a3ad.chunk.js",
+    "main.js.map": "/SamanjaCartagena/port2/static/js/main.9ee6a3ad.chunk.js.map",
+    "runtime-main.js": "/SamanjaCartagena/port2/static/js/runtime-main.f138b66a.js",
+    "runtime-main.js.map": "/SamanjaCartagena/port2/static/js/runtime-main.f138b66a.js.map",
+    "static/js/2.88d8cedd.chunk.js": "/SamanjaCartagena/port2/static/js/2.88d8cedd.chunk.js",
+    "static/js/2.88d8cedd.chunk.js.map": "/SamanjaCartagena/port2/static/js/2.88d8cedd.chunk.js.map",
+    "static/js/3.3b33acaa.chunk.js": "/SamanjaCartagena/port2/static/js/3.3b33acaa.chunk.js",
+    "static/js/3.3b33acaa.chunk.js.map": "/SamanjaCartagena/port2/static/js/3.3b33acaa.chunk.js.map",
+    "index.html": "/SamanjaCartagena/port2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/SamanjaCartagena/port2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.88d8cedd.chunk.js.LICENSE.txt": "/SamanjaCartagena/port2/static/js/2.88d8cedd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SamanjaCartagena/port2/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.802382d8.js",
+    "static/js/runtime-main.f138b66a.js",
     "static/js/2.88d8cedd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0486f3bc.chunk.js"
+    "static/js/main.9ee6a3ad.chunk.js"
   ]
 }
